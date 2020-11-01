@@ -18,7 +18,7 @@
     <a href="https://ibb.co/txSVFKH"><img src="https://i.ibb.co/dLS8xMf/wildbeast.jpg" alt="wildbeast-layout" border="0"></a>
 </p>
 
-## 🚀 Tecnologias e Conceitos
+## 🚀 Tecnologias
 
 Tecnologias e Conceitos utilizadas durante o projeto:
 
