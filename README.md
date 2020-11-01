@@ -42,7 +42,7 @@ O Wildbeast é um blog sobre o Lobo Cinza mostrando a sua história e caracterí
 ### 📂 Clonagem 
 ```bash
 # Clone o repositório
-git clone https://github.com/larissadantier/NomedoProjeto.git
+git clone https://github.com/larissadantier/Wildbeast.git
 
 ```
 ## 🔖 Layout
